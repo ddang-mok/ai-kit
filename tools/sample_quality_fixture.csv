@@ -1,0 +1,6 @@
+record_id,group,value,score
+1,A,10,3
+2,A,20,5
+3,B,,4
+3,B,,4
+4,B,100,7
